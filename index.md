@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to Data Science BS
 
-You can use the [editor on GitHub](https://github.com/DataScienceBS/DataScienceBS.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This page will become a repository for data projects from the 9 months spent at [Nashville Software School](http://www.nashvillesoftwareschool.com) and other data exploration projects thereafter. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education Background
 
-### Markdown
+- Bachelor of Business Administration, Accounting and IT (double major) - Trevecca Nazarene University
+- Master of Business Administration - Auburn University
+- Nashville Software School - Data Science Cohort 1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Job History 
 
-```markdown
-Syntax highlighted code block
+- 2006 - 2015, Supervisor IT Audit - Ingram Industries Inc
+- 2015 - 2016, Sr. Business Analysis Manager - Ingram Content Group
+- 2016 - 2018, Manager Business Analytics - Ingram Content Group
+- 2018 - Present, _under development_
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Contact
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DataScienceBS/DataScienceBS.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Connect with me on [LinkedIn](https://linkedin.com/in/bsanders21/). 
